@@ -1,4 +1,4 @@
-marks=[90,34,99,100,1,101]
+marks=[90,80,60,55,78,90,99,100,34]
 print(marks)
 
 print(type(marks))
